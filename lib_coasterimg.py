@@ -37,7 +37,11 @@ def get():
 
     ]
 
+<<<<<<< HEAD
     return coasters[1]
+=======
+    return coasters[2]
+>>>>>>> 8b2acce3ccc7b99d958ac713b8293294af603f31
 
     #TODO: use random.choice instead
     #return random.choice(coaster)
